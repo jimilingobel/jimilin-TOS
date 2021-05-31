@@ -3,4 +3,4 @@ jimilin resolusi
 -membuat website kesehatan yang didalamnya membagi tips tentang kesehatan
 -membuat form tanya jawab didalamnya
 -membuat merch shop
--bekerjasama dengan CEO
+-membuat tampilan web menjadi lebih modern dan menarik
